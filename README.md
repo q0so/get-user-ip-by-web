@@ -7,6 +7,9 @@ A file will be created that displays the IP, longitude and latitude of the user 
 you need to make file with name "index.html" and copy the code from "index.html",
 and you need make second file with name "lokeshn.php" and copy code from "lokeshn.php",
 
+How To Use : https://youtu.be/YzIJyNk5tJU
+
+
 If you need any help come in my Discord server :
 https://discord.gg/RNTC2D4a6C
 
